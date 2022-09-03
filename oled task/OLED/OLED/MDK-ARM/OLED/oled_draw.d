@@ -1,0 +1,10 @@
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_draw.c
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_draw.h
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_basic.h
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_color.h
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_buffer.h
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_config.h
+oled\oled_draw.o: F:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+oled\oled_draw.o: F:\keil5\ARM\ARMCC\Bin\..\include\math.h
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_bmp.h
+oled\oled_draw.o: ..\HARDWARE\oledlib\oled_font.h
